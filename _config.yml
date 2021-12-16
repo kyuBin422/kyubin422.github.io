@@ -13,7 +13,7 @@ name                     : &name "Bin Yu"
 description              : &description "PhD student"
 url                      : https://kyubin422.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "kyubin422/kyubin422.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,16 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Bin Yu 于滨"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "PhD Student"
+  location         : "Singapore"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "binyu@u.nus.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,20 +87,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "kyubin422"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : "bin-yu"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
   vine             :
   weibo            :
   xing             :
