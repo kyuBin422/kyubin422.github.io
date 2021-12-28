@@ -2,9 +2,9 @@
 	"name": "Rob Williams",
 	"icons": [
 		{
-			"src": "\/images\/android-chrome-192x192.png?v=M44lzPylqQ",
-			"sizes": "192x192",
-			"type": "image\/png",
+			"src": "\/images\/nus_logo_full-vertical.jpg?v=M44lzPylqQ",
+			"sizes": "192x253",
+			"type": "image\/jpg",
 			"density": 4
 		}
 	]
