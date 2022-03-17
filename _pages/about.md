@@ -15,4 +15,4 @@ B.Eng. in Industrial Engineering from [University *of* Electronic Science *and* 
 
 In my daily life, I like to exercise, such as swimming and running. It is a good way to relax and keep my spirit  positive after research.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cBv6ZyM-Jqy7-OJmeA0kVqnN5AEHRpVpK3AuNqyY10g&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=284&t=n&d=cBv6ZyM-Jqy7-OJmeA0kVqnN5AEHRpVpK3AuNqyY10g&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
