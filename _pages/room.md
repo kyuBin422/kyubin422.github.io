@@ -1,9 +1,6 @@
 ---
-permalink: /
-title: "Room"
 permalink: /room/
+title: "Room"
 author_profile: true
-redirect_from: 
-  - /room/
 ---
 Welcome! Please check out the room pictures here.
